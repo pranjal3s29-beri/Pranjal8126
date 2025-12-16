@@ -1,4 +1,4 @@
-# Pranjal8126// C Program to implement Hospital Management System
+# Pranjal8126/ Hostpital - Management// C Program to implement Hospital Management System
 #include <ctype.h> // Include ctype.h for strcasecmp
 #include <stdio.h>
 #include <string.h>
